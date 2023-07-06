@@ -5,22 +5,20 @@ module.exports = async () => {
   let id = 1;
   let videogame = [];
 
-  while (id <= 80) {
+  while (id <= 50) {
     try {
 
         let response = await axios.get(`https://api.rawg.io/api/games/${id}?key=${API_KEY}`);
 
         if (response.status) {
 
-            const { id, name, background_image, platforms, released, rating, genres } = response.data;
+            const { id, name, background_image, platforms, genres } = response.data;
 
             let game = {
             id,
             name,
             image: background_image,
-            platforms: platforms?.map((platform) => platform.platform.name).join(', '),
-            released,
-            rating,
+            platforms: platforms?.map((platform) => platform.platform.name)|| [],
             genres: genres?.map((genre) => genre.name) || [],
             };
 

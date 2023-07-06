@@ -12,9 +12,8 @@ module.exports = async (name) =>{
                 id:game.id,
                 name:game.name,
                 image:game.background_image,
-                released:game.released,
-                rating:game.rating,
-                genres:game.genres.map((genre)=>genre.name)
+                platforms:game.platforms?.map((platform) => platform.platform.name)||[],
+                genres:game.genres?.map((genre)=>genre.name)||[]
             }
 
             gamesByName.push(gameDetail)

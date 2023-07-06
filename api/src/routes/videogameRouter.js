@@ -8,6 +8,9 @@ const getAll = require('../controllers/getAll')
 const findById = require('../controllers/findById')
 
 const post = require('../controllers/post')
+const postArray = require('../controllers/postAllay')
+
+const delate = require('../controllers/delate')
 
 
 router.get('/', async (req,res)=>{
@@ -22,7 +25,7 @@ router.get('/', async (req,res)=>{
         else{
             let videogame = await getAll()
             let videogameApi = await getAllApi();
-            res.status(200).send([...videogame,...videogameApi])
+            res.status(200).send([...videogameApi,...videogame])
         }
 
     } catch (error) {
@@ -40,21 +43,33 @@ router.get('/:id', async (req,res)=>{
     }
 })
 
-router.post('/',async (req,res)=>{
-    let {name, description, platforms, released, rating, genres} = req.body
+router.post('/', async (req, res) => {
+    let { name, description, platforms, released, rating, genres } = req.body;
 
-   try {
-    if (!name || !description || !platforms || !released || !rating || !genres) {
-        throw new Error ('Please complete the required information.')    
+    try {
+        if (Array.isArray(req.body)) {
+            postArray(req.body);
+            res.status(200).send('Array posted successfully!');
+        } else if (!name || !description || !platforms || !released || !rating || !genres) {
+            throw new Error('Please complete the required information.');
+        } else {
+            post(name, description, platforms, released, rating, genres);
+            res.status(200).send(`The game ${name} was created successfully!`);
+        }
+    } catch (error) {
+        return { error: error.message };
     }
+});
 
-    post(name, description, platforms, released, rating, genres)
-    res.status(200).send(`the game ${name} created successfully!`)
 
-   } catch (error) {
-        return { error: error.message }
-   }
-
+router.delete('/:id', async (req,res)=>{
+    const {id} = req.params
+    try {
+        await delate(id)
+        res.status(200).json('Game Deleted')
+    } catch (error) {
+        res.status(400).json({ error: error.message })
+    }
 })
 
 

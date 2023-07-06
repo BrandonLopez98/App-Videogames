@@ -11,9 +11,9 @@ module.exports = async (id) =>{
             image: gamesByIdApi.data.background_image,
             description: gamesByIdApi.data.description,
             platforms: gamesByIdApi.data.platforms?.map((platform) => platform.platform.name),
+            genres: gamesByIdApi.data.genres?.map((genre) => genre.name),
             released: gamesByIdApi.data.released,
             rating: gamesByIdApi.data.rating,
-            genres: gamesByIdApi.data.genres?.map((genre) => genre.name),
           };
 
        return videogame
