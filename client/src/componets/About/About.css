@@ -1,0 +1,33 @@
+.About{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.About .inicio{
+  margin: 0 0 0 8vw ;
+}
+
+.About .inicio .redes{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 2vw;
+}
+
+.About .inicio .redes a img{
+  width: 5vw;
+}
+
+
+.About .inicio .foto{
+  width: 20vw;
+  border-radius: 20px;
+}
+
+.About .descripcion{
+  margin: 0 8vw 0 8vw ;
+  border-radius: 20px;
+  padding: 2vw;
+  background: rgba(255, 255, 255, 0.6);
+  border: 6px solid rgba(255, 255, 255, 0.7);
+}

@@ -1,0 +1,33 @@
+.card {
+  box-sizing: border-box;
+  border-radius: 15px;
+  margin: 1.5vw;
+  max-width: 350px;
+  overflow: hidden;
+  padding: 0.5vw;
+  transition: transform 1s ease;
+}
+
+.card img {
+  width: 100%;
+  border-radius: 15px;
+}
+
+.card .info {
+  display: none;
+}
+
+.card:hover {
+  transform: scale(1.1);
+  
+}
+
+.card:hover .info {
+  display: flex;
+  justify-content: space-around;
+}
+
+.decoration{
+  text-decoration: none;
+  color: black;
+}

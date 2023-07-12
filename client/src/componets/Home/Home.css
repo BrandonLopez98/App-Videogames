@@ -1,0 +1,7 @@
+.content-app{
+    display: flex;
+}
+.content-card{
+    display: flex;
+    flex-wrap: wrap;
+}

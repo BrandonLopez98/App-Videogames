@@ -1,0 +1,17 @@
+.nav{
+    display: flex;
+    width: 80vw;
+    margin: 0 auto;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 5.5vh;
+    margin-bottom: 5vh;
+    z-index: 9999;
+}
+
+.nav img{
+    height: 3vw;
+}
+.nav img:hover{
+    scale: 1.1;
+}
