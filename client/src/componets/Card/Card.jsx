@@ -6,9 +6,9 @@ import { deleteGame } from '../../redux/action'
 const Card = ({ id,name, image, platforms, genres }) => {
   const dispatch = useDispatch()
 
-  const handleClick = (id) => {
+  const handleClick = () => {
     dispatch(deleteGame(id))
-  }
+  }  
 
   return (
     <div className='card'>

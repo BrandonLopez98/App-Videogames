@@ -1,0 +1,401 @@
+[ 
+    {
+    "name": "Minecraft",
+    "description": "Un juego de construcción y aventuras en un mundo abierto de bloques.",
+    "released": "2011-11-18",
+    "rating": 9.0,
+    "platforms": ["PC", "Xbox One", "PlayStation 4", "Nintendo Switch", "iOS"],
+    "genres": ["Indie", "Adventure", "Simulation"]
+},
+{
+    "name": "Grand Theft Auto V",
+    "description": "Un juego de acción y mundo abierto lleno de misiones y actividades.",
+    "released": "2013-09-17",
+    "rating": 9.5,
+    "platforms": ["PC", "Xbox One", "PlayStation 4", "Xbox 360", "PlayStation 3"],
+    "genres": ["Action", "Adventure"]
+},
+{
+    "name": "Red Dead Redemption 2",
+    "description": "Un épico juego de mundo abierto ambientado en el salvaje oeste.",
+    "released": "2018-10-26",
+    "rating": 9.2,
+    "platforms": ["PC", "Xbox One", "PlayStation 4", "Xbox Series S/X", "PlayStation 5"],
+    "genres": ["Action", "Adventure"]
+},
+{
+    "name": "The Witcher 3: Wild Hunt",
+    "description": "Un juego de rol y acción con un vasto mundo para explorar y monstruos para cazar.",
+    "released": "2015-05-19",
+    "rating": 9.5,
+    "platforms": ["PC", "Xbox One", "PlayStation 4", "Nintendo Switch"],
+    "genres": ["RPG", "Action", "Adventure"]
+},
+{
+    "name": "Fallout 4",
+    "description": "Un juego de rol y acción postapocalíptico ambientado en un mundo devastado.",
+    "released": "2015-11-10",
+    "rating": 8.7,
+    "platforms": ["PC", "Xbox One", "PlayStation 4"],
+    "genres": ["RPG", "Action", "Adventure"]
+},
+{
+    "name": "Assassin's Creed Valhalla",
+    "description": "Embárcate en una aventura vikinga llena de combates y exploración.",
+    "released": "2020-11-10",
+    "rating": 8.6,
+    "platforms": ["PC", "Xbox One", "PlayStation 4", "Xbox Series S/X", "PlayStation 5"],
+    "genres": ["Action", "Adventure"]
+},
+{
+    "name": "FIFA 21",
+    "description": "El último juego de la popular serie de simulación de fútbol.",
+    "released": "2020-10-06",
+    "rating": 8.2,
+    "platforms": ["PC", "Xbox One", "PlayStation 4", "Nintendo Switch"],
+    "genres": ["Sports"]
+},
+{
+    "name": "Call of Duty: Modern Warfare",
+    "description": "Un intenso juego de disparos en primera persona con una campaña emocionante y un modo multijugador competitivo.",
+    "released": "2019-10-25",
+    "rating": 8.7,
+    "platforms": ["PC", "Xbox One", "PlayStation 4"],
+    "genres": ["Shooter", "Action"]
+},
+{
+    "name": "Resident Evil 2",
+    "description": "Un remake del clásico juego de survival horror con gráficos y jugabilidad mejorados.",
+    "released": "2019-01-25",
+    "rating": 9.0,
+    "platforms": ["PC", "Xbox One", "PlayStation 4"],
+    "genres": ["Action", "Adventure", "Horror"]
+},
+{
+    "name": "Sekiro: Shadows Die Twice",
+    "description": "Un desafiante juego de acción y aventuras ambientado en el Japón feudal.",
+    "released": "2019-03-22",
+    "rating": 9.3,
+    "platforms": ["PC", "Xbox One", "PlayStation 4"],
+    "genres": ["Action", "Adventure"]
+},
+{
+    "name": "God of War",
+    "description": "Una épica y emotiva historia de venganza protagonizada por el poderoso Kratos.",
+    "released": "2018-04-20",
+    "rating": 9.3,
+    "platforms": ["PlayStation 4"],
+    "genres": ["Action", "Adventure"]
+},
+{
+    "name": "Cyberpunk 2077",
+    "description": "Un juego de rol de mundo abierto ambientado en un futuro distópico y cyberpunk.",
+    "released": "2020-12-10",
+    "rating": 7.9,
+    "platforms": ["PC", "Xbox One", "PlayStation 4"],
+    "genres": ["RPG", "Action", "Adventure"]
+},
+{
+    "name": "Animal Crossing: New Horizons",
+    "description": "Un encantador juego de simulación de vida en una isla desierta.",
+    "released": "2020-03-20",
+    "rating": 9.2,
+    "platforms": ["Nintendo Switch"],
+    "genres": ["Simulation", "Casual"]
+},
+{
+    "name": "Overwatch",
+    "description": "Un juego de disparos en equipo con una variedad de héroes y modos de juego.",
+    "released": "2016-05-24",
+    "rating": 8.3,
+    "platforms": ["PC", "Xbox One", "PlayStation 4", "Nintendo Switch"],
+    "genres": ["Shooter", "Action"]
+},
+{
+    "name": "Destiny 2",
+    "description": "Un juego de disparos en línea con elementos de rol en un mundo futurista.",
+    "released": "2017-09-06",
+    "rating": 8.6,
+    "platforms": ["PC", "Xbox One", "PlayStation 4"],
+    "genres": ["Shooter", "Action"]
+},
+{
+    "name": "Fortnite",
+    "description": "Un popular juego de batalla real con construcción y elementos de supervivencia.",
+    "released": "2017-07-25",
+    "rating": 8.2,
+    "platforms": ["PC", "Xbox One", "PlayStation 4", "Nintendo Switch", "iOS"],
+    "genres": ["Action", "Shooter"]
+},
+{
+    "name": "League of Legends",
+    "description": "Un juego de estrategia y batalla en línea con una amplia variedad de personajes.",
+    "released": "2009-10-27",
+    "rating": 8.7,
+    "platforms": ["PC"],
+    "genres": ["Strategy", "Massively Multiplayer"]
+},
+{
+    "name": "World of Warcraft",
+    "description": "Un masivo juego en línea de rol ambientado en un mundo de fantasía épico.",
+    "released": "2004-11-23",
+    "rating": 9.1,
+    "platforms": ["PC", "Classic Macintosh"],
+    "genres": ["RPG", "Massively Multiplayer"]
+},
+{
+    "name": "Mortal Kombat 11",
+    "description": "Un juego de lucha repleto de acción y con personajes icónicos.",
+    "released": "2019-04-23",
+    "rating": 8.6,
+    "platforms": ["PC", "Xbox One", "PlayStation 4", "Nintendo Switch"],
+    "genres": ["Fighting", "Action"]
+},
+{
+    "name": "Super Smash Bros. Ultimate",
+    "description": "Un juego de lucha en el que los personajes de Nintendo se enfrentan en emocionantes batallas.",
+    "released": "2018-12-07",
+    "rating": 9.4,
+    "platforms": ["Nintendo Switch"],
+    "genres": ["Fighting", "Action", "Party"]
+},
+{
+    "name": "Pokémon Sword and Shield",
+    "description": "Juegos de rol en los que los jugadores se embarcan en una aventura para convertirse en el mejor entrenador Pokémon.",
+    "released": "2019-11-15",
+    "rating": 8.8,
+    "platforms": ["Nintendo Switch"],
+    "genres": ["RPG", "Adventure"]
+},
+{
+    "name": "Doom Eternal",
+    "description": "Un frenético juego de disparos en primera persona con acción intensa y demonios despiadados.",
+    "released": "2020-03-20",
+    "rating": 9.0,
+    "platforms": ["PC", "Xbox One", "PlayStation 4"],
+    "genres": ["Shooter", "Action"]
+},
+{
+    "name": "Borderlands 3",
+    "description": "Un juego de disparos en línea con elementos de rol y un humor desenfadado.",
+    "released": "2019-09-13",
+    "rating": 8.3,
+    "platforms": ["PC", "Xbox One", "PlayStation 4"],
+    "genres": ["Shooter", "Action", "RPG"]
+},
+{
+    "name": "Halo: Reach",
+    "description": "Una emocionante entrega de la legendaria saga de juegos de disparos en primera persona.",
+    "released": "2010-12-03",
+    "rating": 8.7,
+    "platforms": ["Xbox 360", "Xbox One", "PC"],
+    "genres": ["Shooter", "Action"]
+},
+{
+    "name": "Gears 5",
+    "description": "Un juego de disparos en tercera persona con una historia apasionante y modos de juego emocionantes.",
+    "released": "2019-09-10",
+    "rating": 8.6,
+    "platforms": ["Xbox One", "Xbox Series S/X", "PC"],
+    "genres": ["Shooter", "Action"]
+},
+{
+    "name": "NBA 2K21",
+    "description": "El último juego de simulación de baloncesto con jugabilidad realista y modos de juego completos.",
+    "released": "2020-09-04",
+    "rating": 8.4,
+    "platforms": ["PC", "Xbox One", "PlayStation 4", "Xbox Series S/X", "PlayStation 5"],
+    "genres": ["Sports"]
+},
+{
+    "name": "Misión en la Ciudad Perdida",
+    "description": "Embárcate en una peligrosa misión en busca de la legendaria Ciudad Perdida, llena de tesoros ocultos y antiguos secretos.",
+    "released": "2015-09-03",
+    "rating": 8.6,
+    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "genres": ["Action", "Adventure"]
+},
+{
+    "name": "Carrera Extrema de Coches",
+    "description": "Pon a prueba tus habilidades de conducción en carreras extremas llenas de adrenalina y desafíos emocionantes.",
+    "released": "2014-11-21",
+    "rating": 7.9,
+    "platforms": ["Xbox One", "PlayStation 4", "PC"],
+    "genres": ["Racing", "Action"]
+},
+{
+    "name": "Simulador de Vida en la Granja",
+    "description": "Vive la experiencia de ser granjero, cuidando animales, cultivando cultivos y construyendo tu propia granja próspera.",
+    "released": "2016-03-18",
+    "rating": 8.2,
+    "platforms": ["PC", "PlayStation 4", "Xbox One"],
+    "genres": ["Simulation", "Strategy"]
+},
+{
+    "name": "Aventuras en el Mundo Submarino",
+    "description": "Sumérgete en las profundidades del océano y descubre un mundo submarino lleno de criaturas fascinantes y misterios ocultos.",
+    "released": "2017-07-29",
+    "rating": 7.7,
+    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "genres": ["Adventure", "Simulation"]
+},
+{
+    "name": "Batalla Épica de Robots",
+    "description": "Enfréntate a emocionantes batallas de robots en arenas futuristas, utilizando poderosas armas y habilidades para convertirte en el campeón.",
+    "released": "2018-12-10",
+    "rating": 8.4,
+    "platforms": ["Xbox One", "PlayStation 4", "PC"],
+    "genres": ["Action", "Fighting"]
+},
+{
+    "name": "Simulador de Construcción de Ciudades",
+    "description": "Construye y administra tu propia ciudad, desde rascacielos impresionantes hasta redes de transporte eficientes, en este completo simulador de construcción.",
+    "released": "2019-10-05",
+    "rating": 8.8,
+    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "genres": ["Simulation", "Strategy"]
+},
+{
+    "name": "Misterio en el Castillo Encantado",
+    "description": "Explora un antiguo castillo encantado y desvela sus secretos oscuros en este juego de aventuras y rompecabezas intrigante.",
+    "released": "2020-08-15",
+    "rating": 7.5,
+    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "genres": ["Adventure", "Puzzle"]
+},
+{
+    "name": "Carrera de Motos Extremas",
+    "description": "Atrévete a enfrentarte a pistas desafiantes y acrobacias impresionantes en carreras de motos extremas llenas de acción y velocidad.",
+    "released": "2021-06-12",
+    "rating": 8.1,
+    "platforms": ["Xbox One", "PlayStation 4", "PC"],
+    "genres": ["Racing", "Action"]
+},
+{
+    "name": "Simulador de Gestión de Restaurantes",
+    "description": "Administra tu propio restaurante y haz todo lo posible para satisfacer a los exigentes clientes, ofreciendo deliciosas comidas y un servicio impecable.",
+    "released": "2022-04-25",
+    "rating": 8.3,
+    "platforms": ["PC", "PlayStation 4", "Xbox One"],
+    "genres": ["Simulation", "Strategy"]
+},
+{
+    "name": "Lucha de Gladiadores en la Arena",
+    "description": "Entra en la arena y lucha como un gladiador valiente en emocionantes combates cuerpo a cuerpo contra oponentes formidables.",
+    "released": "2023-02-01",
+    "rating": 7.9,
+    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "genres": ["Action", "Fighting"]
+},
+{
+    "name": "Simulador de Exploración Espacial",
+    "description": "Explora las vastas regiones del espacio exterior, descubre nuevos planetas y civilizaciones alienígenas en esta emocionante aventura de exploración espacial.",
+    "released": "2024-01-10",
+    "rating": 8.6,
+    "platforms": ["Xbox One", "PlayStation 4", "PC"],
+    "genres": ["Adventure", "Simulation"]
+},
+{
+    "name": "Aventuras en la Tierra de los Dragones",
+    "description": "Adéntrate en una tierra mágica llena de dragones majestuosos, misterios ancestrales y peligros inimaginables en esta emocionante aventura de fantasía.",
+    "released": "2025-03-19",
+    "rating": 7.8,
+    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "genres": ["Action", "Adventure"]
+},
+{
+    "name": "Simulador de Vuelo Espacial",
+    "description": "Pilota naves espaciales avanzadas y explora el vasto cosmos en este simulador de vuelo espacial que te llevará a lugares lejanos y desconocidos.",
+    "released": "2026-02-14",
+    "rating": 8.9,
+    "platforms": ["Xbox One", "PlayStation 4", "PC"],
+    "genres": ["Simulation", "Adventure"]
+},
+{
+    "name": "Misterio en la Isla Prohibida",
+    "description": "Naufraga en una misteriosa isla prohibida y desentraña los secretos que guarda, mientras luchas por sobrevivir en un entorno hostil.",
+    "released": "2027-07-08",
+    "rating": 7.6,
+    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "genres": ["Adventure", "Survival"]
+},
+{
+    "name": "Batalla de Magos y Hechiceros",
+    "description": "Únete a una épica batalla de magos y hechiceros, desatando poderosos hechizos y convocando criaturas mágicas para enfrentarte a tus rivales.",
+    "released": "2028-05-03",
+    "rating": 8.2,
+    "platforms": ["Xbox One", "PlayStation 4", "PC"],
+    "genres": ["Action", "Strategy"]
+},
+{
+    "name": "Simulador de Parque Jurásico",
+    "description": "Construye y administra tu propio parque temático de dinosaurios, ofreciendo a los visitantes la experiencia única de encontrarse cara a cara con criaturas prehistóricas.",
+    "released": "2029-09-22",
+    "rating": 7.9,
+    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "genres": ["Simulation", "Adventure"]
+},
+{
+    "name": "Aventuras en el Reino de las Hadas",
+    "description": "Embárcate en un viaje mágico al Reino de las Hadas, donde criaturas encantadoras y paisajes deslumbrantes te esperan en cada esquina.",
+    "released": "2030-08-12",
+    "rating": 8.3,
+    "platforms": ["PC", "PlayStation 4", "Xbox One"],
+    "genres": ["Adventure", "Fantasy"]
+},
+{
+    "name": "Carrera de Coches Clásicos",
+    "description": "Recorre pistas emocionantes al volante de los coches clásicos más emblemáticos de la historia, reviviendo la época dorada de las carreras de automóviles.",
+    "released": "2031-07-17",
+    "rating": 7.7,
+    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "genres": ["Racing", "Action"]
+},
+{
+    "name": "Simulador de Vida en la Ciudad",
+    "description": "Experimenta la vida urbana en toda su diversidad, desde la carrera profesional hasta las relaciones personales, en este realista simulador de vida en la ciudad.",
+    "released": "2032-06-28",
+    "rating": 8.1,
+    "platforms": ["Xbox One", "PlayStation 4", "PC"],
+    "genres": ["Simulation", "Adventure"]
+},
+{
+    "name": "Batalla en el Futuro Distópico",
+    "description": "Sumérgete en un futuro distópico lleno de conflictos y luchas por la supervivencia, donde tus decisiones determinarán el destino de la humanidad.",
+    "released": "2033-05-19",
+    "rating": 8.5,
+    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "genres": ["Action", "Adventure"]
+},
+{
+    "name": "rompecabezas zen",
+    "description": "Disfruta de un juego relajante y desafiante que te llevará a un estado de paz mental mientras resuelves hermosos rompecabezas.",
+    "released": "2003-02-07",
+    "rating": 8.3,
+    "platforms": ["PC", "Xbox One", "PlayStation 4", "Nintendo Switch"],
+    "genres": ["Action", "Adventure", "RPG"]
+},
+{
+    "name": "carrera de aventuras en la selva",
+    "description": "Embárcate en una emocionante carrera a través de la selva llena de obstáculos, animales salvajes y tesoros ocultos. ¿Tienes lo necesario para llegar a la meta?",
+    "released": "2006-09-12",
+    "rating": 7.5,
+    "platforms": ["PlayStation 4", "Xbox 360", "PC"],
+    "genres": ["Action", "Adventure"]
+},
+{
+    "name": "campeonato de fútbol épico",
+    "description": "Vive la emoción y la intensidad del fútbol en este campeonato épico donde los mejores equipos se enfrentan en una batalla por la gloria.",
+    "released": "2023-02-14",
+    "rating": 9.1,
+    "platforms": ["Nintendo Switch", "PlayStation 4", "Xbox One"],
+    "genres": ["RPG", "Action", "Adventure"]
+},
+{
+    "name": "la leyenda del destino",
+    "description": "Sumérgete en un mundo de magia, misterio y poder mientras descubres los secretos de la legendaria profecía y luchas por cambiar tu destino.",
+    "released": "2013-12-01",
+    "rating": 6.8,
+    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "genres": ["Action", "Adventure"]
+}]

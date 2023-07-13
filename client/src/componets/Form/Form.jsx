@@ -1,11 +1,14 @@
+import './Form.css'
 import React, { useEffect, useState } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { getGenres, getPlatforms, postGames } from '../../redux/action';
 import { useForm } from 'react-hook-form';
-
+import { useHistory } from 'react-router-dom';
+import crearJuego from '../../Multimedia/gamerecurso-10-min.webp'
 const Form = () => {
   const dispatch = useDispatch();
   const genres = useSelector(state => state.genres);
+  const history = useHistory();
   const platforms = useSelector(state => state.platforms);
   const { register, handleSubmit,watch } = useForm();
 
@@ -28,7 +31,7 @@ const Form = () => {
     });
     const formData = { ...data, genres: selectedGenreNames, platforms: selectedPlatformNames };
     dispatch(postGames(formData));
-    console.log('se a creado el juego');
+    history.push('/home');
   }
   
 
@@ -51,10 +54,8 @@ const Form = () => {
   }
 
   return (
-    <div className='contain_form'>
-      <h2>Crea tu propio Juego</h2>
-
-      <form onSubmit={handleSubmit(onSubmit)}>
+    <div>
+      <form className='contain-form' onSubmit={handleSubmit(onSubmit)}>
         <div>
           <label>Nombre</label>
           <input type="text" {...register('name')} />
@@ -65,7 +66,21 @@ const Form = () => {
           <input type="text" {...register('description')} />
         </div>
 
-        <div>
+        <div className='flex'>
+        <div className='conten-1'>
+          <label>Fecha de lanzamiento</label>
+          <input type="date" {...register('released')} />
+        </div>
+
+        <div className='conten-1 Calificacion'>
+          <label>Calificación</label>
+          <input type="range" min="1" max="10" step="0.1" {...register('rating', { required: true, min: 1, max: 10 })} />
+          <p>{watch('rating')}</p>
+        </div>
+        </div>
+
+        <div className='flex'>
+        <div className='content-2'>
           <label>Géneros</label>
           <select {...register('genres', { required: true })} onChange={handleGenresChange}>
             {genres.map(genre => (
@@ -79,7 +94,7 @@ const Form = () => {
             {selectedGenres.map(genreId => {
               const genre = genres.find(genre => genre.id === genreId);
               return (
-                <div key={genreId}>
+                <div className='option-genres' key={genreId}>
                   <p>{genre.name}</p>
                   <button onClick={() => handleDeleteGenre(genreId)}>x</button>
                 </div>
@@ -88,7 +103,7 @@ const Form = () => {
           </div>
         </div>
 
-        <div>
+        <div className='content-2'>
           <label>Plataformas</label>
           <select {...register('platforms', { required: true })} onChange={handlePlatformsChange}>
             {platforms.map(platform => (
@@ -102,7 +117,7 @@ const Form = () => {
             {selectedPlatforms.map(platformId => {
               const platform = platforms.find(platform => platform.id === platformId);
               return (
-                <div key={platformId}>
+                <div className='option-plataforms' key={platformId}>
                   <p>{platform.name}</p>
                   <button onClick={() => handleDeletePlatform(platformId)}>x</button>
                 </div>
@@ -110,19 +125,9 @@ const Form = () => {
             })}
           </div>
         </div>
-
-        <div>
-          <label>Fecha de lanzamiento</label>
-          <input type="date" {...register('released')} />
         </div>
 
-        <div>
-          <label>Calificación</label>
-          <input type="range" min="1" max="10" step="0.1" {...register('rating', { required: true, min: 1, max: 10 })} />
-          <p>{watch('rating')}</p>
-        </div>
-
-        <input type="submit" value="Crear Juego" />
+        <button className='botton-submit' type="submit"><img src={crearJuego} alt="" /></button>
       </form>
     </div>
   );

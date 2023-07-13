@@ -1,0 +1,394 @@
+[ 
+    {
+        "name": "The Legend of Zelda: Breath of the Wild",
+        "description": "Una épica aventura de acción y exploración en un vasto mundo abierto.",
+        "released": "2017-03-03",
+        "rating": 9.2,
+        "platforms": ["Nintendo Switch", "Wii U"],
+        "genres": ["Action", "Adventure", "RPG"]
+    },
+    {
+    "name": "guerra táctica: operación sigilosa",
+    "description": "Forma parte de una unidad de operaciones especiales y lleva a cabo misiones encubiertas en entornos peligrosos. Utiliza tus habilidades tácticas y el sigilo para cumplir tus objetivos.",
+    "released": "2005-08-19",
+    "rating": 8.0,
+    "platforms": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch"],
+    "genres": ["RPG", "Action", "Adventure"]
+},
+{
+    "name": "simulador de carreras extremas",
+    "description": "Siente la adrenalina mientras te pones al volante de vehículos veloces en pistas desafiantes. ¿Tienes lo necesario para dominar las carreras más extremas?",
+    "released": "2022-06-17",
+    "rating": 7.2,
+    "platforms": ["Nintendo Switch", "PlayStation 4", "PC"],
+    "genres": ["Action", "Adventure"]
+},
+{
+    "name": "el reino de las sombras",
+    "description": "Adéntrate en un oscuro y misterioso reino lleno de criaturas sobrenaturales y desafíos aterradores. ¿Te atreves a descubrir la verdad oculta en las sombras?",
+    "released": "2011-06-24",
+    "rating": 9.4,
+    "platforms": ["Xbox One", "PlayStation 4", "PC"],
+    "genres": ["Action", "Adventure"]
+},
+{
+    "name": "misión espacial: exploradores del universo",
+    "description": "Embárcate en una emocionante misión espacial para explorar nuevos planetas, descubrir vida extraterrestre y desvelar los secretos del universo.",
+    "released": "2009-07-07",
+    "rating": 7.9,
+    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "genres": ["Action", "Adventure"]
+},
+{
+    "name": "rompecabezas en el espacio",
+    "description": "Resuelve desafiantes rompecabezas en un entorno espacial con gravedad cero y obstáculos únicos. ¿Estás preparado para desafiar los límites de tu mente?",
+    "released": "2001-11-16",
+    "rating": 8.5,
+    "platforms": ["Xbox One", "PlayStation 4", "PC"],
+    "genres": ["Action", "Adventure"]
+},
+{
+    "name": "escape room: el desafío final",
+    "description": "Demuestra tus habilidades de resolución de acertijos y trabajo en equipo mientras intentas escapar de una sala llena de desafíos y enigmas. ¿Podrás superar el desafío final?",
+    "released": "2009-05-23",
+    "rating": 7.6,
+    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "genres": ["Action", "Adventure"]
+},
+{
+    "name": "carrera de motocross extrema",
+    "description": "Domina terrenos difíciles, realiza acrobacias increíbles y compite contra los mejores corredores en una emocionante carrera de motocross llena de adrenalina.",
+    "released": "2012-10-09",
+    "rating": 9.0,
+    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "genres": ["Action", "Adventure"]
+},
+{
+    "name": "el enigma de la pirámide",
+    "description": "Descubre los secretos ocultos en el interior de una antigua pirámide y resuelve enigmas desafiantes para desvelar una verdad milenaria.",
+    "released": "2021-06-29",
+    "rating": 6.7,
+    "platforms": ["PC", "PlayStation 4", "Xbox One"],
+    "genres": ["Action", "Adventure"]
+},
+{
+    "name": "batalla de cartas épicas",
+    "description": "Colecciona cartas poderosas, crea estrategias y desafía a otros jugadores en batallas de cartas emocionantes. ¿Tienes lo necesario para convertirte en el campeón?",
+    "released": "2019-08-31",
+    "rating": 8.2,
+    "platforms": ["Nintendo Switch", "PlayStation 4", "Xbox One"],
+    "genres": ["RPG", "Action", "Adventure"]
+},
+{
+    "name": "operación encubierta: misión sigilosa",
+    "description": "Adéntrate en el mundo de la espionaje y lleva a cabo misiones secretas en las que cada movimiento cuenta. ¿Podrás completar tu misión sin ser detectado?",
+    "released": "2010-05-28",
+    "rating": 7.3,
+    "platforms": ["Xbox One", "PlayStation 4", "PC"],
+    "genres": ["Action", "Adventure"]
+},
+{
+    "name": "simulador de vida virtual",
+    "description": "Crea tu propio avatar, construye tu hogar, forja amistades y persigue tus sueños en un mundo virtual lleno de posibilidades. ¿Qué camino tomarás en esta vida simulada?",
+    "released": "2005-09-22",
+    "rating": 9.6,
+    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "genres": ["Action", "Adventure"]
+},
+{
+    "name": "invasión alienígena: batalla final",
+    "description": "Defiende la Tierra de una invasión alienígena implacable y lidera a la humanidad en una batalla épica por la supervivencia. ¿Podrás vencer a los invasores extraterrestres?",
+    "released": "2023-07-05",
+    "rating": 7.8,
+    "platforms": ["Nintendo Switch", "PlayStation 4", "Xbox One"],
+    "genres": ["RPG", "Action", "Adventure"]
+},
+{
+    "name": "la leyenda de los mundos perdidos",
+    "description": "Descubre mundos perdidos llenos de tesoros ocultos, criaturas fantásticas y antiguos misterios en esta épica aventura llena de acción.",
+    "released": "2004-12-09",
+    "rating": 8.1,
+    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "genres": ["Action", "Adventure"]
+},
+{
+    "name": "el reino en ruinas",
+    "description": "Explora un reino en ruinas lleno de peligros y desafíos mortales. ¿Tendrás la valentía y habilidad necesarias para restaurar la gloria pasada?",
+    "released": "2018-02-15",
+    "rating": 6.5,
+    "platforms": ["PC", "PlayStation 4", "Xbox One"],
+    "genres": ["Action", "Adventure"]
+},
+{
+    "name": "carrera de bicicletas extremas",
+    "description": "Desafía la gravedad y realiza acrobacias alucinantes mientras compites en emocionantes carreras de bicicletas extremas.",
+    "released": "2008-11-02",
+    "rating": 9.2,
+    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "genres": ["Action", "Adventure"]
+},
+{
+    "name": "aventuras en el viejo oeste",
+    "description": "Embárcate en una emocionante aventura en el salvaje oeste, donde enfrentarás duelos, perseguirás forajidos y descubrirás secretos enterrados en el polvo del desierto.",
+    "released": "2017-04-14",
+    "rating": 7.7,
+    "platforms": ["Xbox One", "PlayStation 4", "PC"],
+    "genres": ["Action", "Adventure"]
+},
+{
+    "name": "escuadrón de rescate: misión de alto riesgo",
+    "description": "Forma parte de un valiente escuadrón de rescate y lleva a cabo misiones peligrosas para salvar vidas. ¿Estás preparado para enfrentar los desafíos más extremos?",
+    "released": "2014-11-29",
+    "rating": 8.9,
+    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "genres": ["Action", "Adventure"]
+},
+{
+    "name": "simulador de parques de diversiones",
+    "description": "Construye y administra tu propio parque de diversiones, ofreciendo emocionantes atracciones y entretenimiento para los visitantes. ¿Puedes crear el parque más exitoso?",
+    "released": "2016-03-18",
+    "rating": 7.4,
+    "platforms": ["PC", "PlayStation 4", "Xbox One"],
+    "genres": ["Simulation", "Strategy"]
+},
+{
+    "name": "lucha en la arena: gladiadores del caos",
+    "description": "Enfréntate a desafiantes combates en la arena como un valiente gladiador, luchando por tu supervivencia y la gloria en medio del caos.",
+    "released": "2015-07-23",
+    "rating": 9.3,
+    "platforms": ["Xbox One", "PlayStation 4", "PC"],
+    "genres": ["Action", "Fighting"]
+},
+{
+    "name": "simulador de granja moderna",
+    "description": "Vive la vida en una granja moderna, cuida de tus cultivos, cría animales y gestiona tu negocio agrícola en este completo simulador de granja.",
+    "released": "2012-09-28",
+    "rating": 8.8,
+    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "genres": ["Simulation", "Strategy"]
+},
+{
+    "name": "batalla de bandas: rock revolution",
+    "description": "Forma tu propia banda de rock, toca los mejores éxitos y compite contra otras bandas en épicas batallas musicales.",
+    "released": "2011-08-12",
+    "rating": 7.1,
+    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "genres": ["Music", "Rhythm"]
+},
+{
+    "name": "el enigma de la isla perdida",
+    "description": "Explora una isla misteriosa llena de secretos ocultos, tesoros perdidos y peligros inesperados. ¿Podrás descubrir la verdad detrás de la isla perdida?",
+    "released": "2010-03-26",
+    "rating": 9.5,
+    "platforms": ["PC", "PlayStation 4", "Xbox One"],
+    "genres": ["Action", "Adventure"]
+},
+{
+    "name": "misión espacial: exploradores galácticos",
+    "description": "Únete a una misión espacial épica para explorar la galaxia, descubrir nuevos planetas y enfrentarte a peligros alienígenas en el espacio profundo.",
+    "released": "2007-05-18",
+    "rating": 7.8,
+    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "genres": ["RPG", "Action", "Adventure"]
+},
+{
+    "name": "el reino de los elementos",
+    "description": "Embárcate en una aventura elemental llena de magia y misterio, donde podrás dominar los poderes de los elementos y enfrentarte a desafiantes pruebas.",
+    "released": "2019-11-08",
+    "rating": 8.6,
+    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "genres": ["RPG", "Action", "Adventure"]
+},
+{
+    "name": "simulador de vuelo avanzado",
+    "description": "Ponte al mando de aviones realistas y desafía tus habilidades de piloto en emocionantes misiones aéreas y desafíos extremos.",
+    "released": "2006-02-17",
+    "rating": 6.9,
+    "platforms": ["PC", "PlayStation 4", "Xbox One"],
+    "genres": ["Simulation", "Action"]
+},
+
+{
+    "name": "rompecabezas en el tiempo",
+    "description": "Viaja a través del tiempo y resuelve ingeniosos rompecabezas en diferentes épocas históricas. ¿Podrás descubrir los secretos del tiempo?",
+    "released": "2003-08-29",
+    "rating": 7.3,
+    "platforms": ["Xbox One", "PlayStation 4", "PC"],
+    "genres": ["Puzzle", "Adventure"]
+},
+{
+    "name": "torneo de batallas: guerreros legendarios",
+    "description": "Participa en un torneo épico donde los guerreros más valientes y habilidosos se enfrentan en batallas intensas. ¿Serás capaz de demostrar tu valía?",
+    "released": "2013-02-22",
+    "rating": 8.4,
+    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "genres": ["Action", "Fighting"]
+},
+{
+    "name": "apocalipsis zombi: supervivencia extrema",
+    "description": "Enfrenta un mundo infestado de zombis sedientos de sangre y lucha por tu supervivencia en esta experiencia de supervivencia extrema.",
+    "released": "2012-07-13",
+    "rating": 7.9,
+    "platforms": ["PC", "PlayStation 4", "Xbox One"],
+    "genres": ["Action", "Survival"]
+},
+{
+    "name": "simulador de negocios multimillonarios",
+    "description": "Construye un imperio empresarial desde cero y conviértete en un magnate multimillonario. ¿Tienes lo necesario para triunfar en el mundo de los negocios?",
+    "released": "2011-10-21",
+    "rating": 9.1,
+    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "genres": ["Simulation", "Strategy"]
+},
+{
+    "name": "escuadrón espacial: batalla intergaláctica",
+    "description": "Únete a un escuadrón espacial y participa en emocionantes batallas intergalácticas contra fuerzas alienígenas. ¿Podrás salvar la galaxia de la destrucción?",
+    "released": "2010-09-17",
+    "rating": 7.7,
+    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "genres": ["Action", "Adventure"]
+},
+{
+    "name": "lucha libre: el campeonato definitivo",
+    "description": "Entra al cuadrilátero y lucha contra los mejores luchadores en este emocionante juego de lucha libre. ¿Podrás convertirte en el campeón definitivo?",
+    "released": "2009-12-04",
+    "rating": 8.2,
+    "platforms": ["Xbox One", "PlayStation 4", "PC"],
+    "genres": ["Action", "Fighting"]
+},
+{
+    "name": "simulador de astronomía",
+    "description": "Explora el vasto universo y descubre los secretos del cosmos en este simulador de astronomía impresionante y educativo.",
+    "released": "2007-03-02",
+    "rating": 8.7,
+    "platforms": ["PC", "PlayStation 4", "Xbox One"],
+    "genres": ["Simulation", "Educational"]
+},
+{
+    "name": "el misterio de la mansión encantada",
+    "description": "Adéntrate en una mansión encantada llena de enigmas y fantasmas. ¿Podrás desvelar el misterio que rodea a esta siniestra morada?",
+    "released": "2006-10-13",
+    "rating": 7.5,
+    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "genres": ["Adventure", "Puzzle"]
+},
+{
+    "name": "survival zombie: apocalipsis",
+    "description": "Sobrevive en un mundo postapocalíptico infestado de zombis sedientos de sangre. ¿Podrás encontrar un refugio seguro y luchar por tu supervivencia?",
+    "released": "2005-11-18",
+    "rating": 8.9,
+    "platforms": ["Xbox One", "PlayStation 4", "PC"],
+    "genres": ["Action", "Survival"]
+},
+{
+    "name": "laberintos místicos",
+    "description": "Explora laberintos misteriosos llenos de trampas mortales, tesoros ocultos y secretos ancestrales. ¿Serás capaz de encontrar la salida?",
+    "released": "2004-09-24",
+    "rating": 7.3,
+    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "genres": ["Puzzle", "Adventure"]
+},
+{
+    "name": "aventuras espaciales: el tesoro del universo",
+    "description": "Embárcate en una emocionante aventura espacial en busca del tesoro más valioso del universo. ¿Serás capaz de encontrarlo antes que otros cazadores de tesoros?",
+    "released": "2003-12-12",
+    "rating": 8.3,
+    "platforms": ["Nintendo Switch", "PlayStation 4", "Xbox One"],
+    "genres": ["RPG", "Action", "Adventure"]
+},
+{
+    "name": "la profecía de los elementos",
+    "description": "Descubre los secretos de una antigua profecía que predice el destino del mundo y desafía a los elementos en una épica batalla.",
+    "released": "2002-11-29",
+    "rating": 9.7,
+    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "genres": ["RPG", "Action", "Adventure"]
+},
+{
+    "name": "torneo de estrategia: batalla épica",
+    "description": "Participa en un torneo de estrategia donde deberás demostrar tus habilidades tácticas y liderazgo para alcanzar la victoria en batallas épicas.",
+    "released": "2001-10-26",
+    "rating": 8.0,
+    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "genres": ["Strategy"]
+},
+{
+    "name": "simulador de parque acuático",
+    "description": "Construye y administra tu propio parque acuático, ofreciendo emocionantes atracciones acuáticas y diversión refrescante para los visitantes.",
+    "released": "2000-09-15",
+    "rating": 7.6,
+    "platforms": ["PC", "PlayStation 4", "Xbox One"],
+    "genres": ["Simulation", "Strategy"]
+},
+{
+    "name": "simulador de zoológico exótico",
+    "description": "Crea y administra un zoológico lleno de animales exóticos de todo el mundo. ¿Podrás mantener a tus animales felices y atraer a visitantes emocionados?",
+    "released": "1999-08-20",
+    "rating": 9.2,
+    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "genres": ["Simulation", "Strategy"]
+},
+{
+    "name": "el legado de los antiguos",
+    "description": "Explora ruinas ancestrales, desvela secretos perdidos y descubre el legado dejado por antiguas civilizaciones en esta emocionante aventura arqueológica.",
+    "released": "1998-11-13",
+    "rating": 8.4,
+    "platforms": ["Xbox One", "PlayStation 4", "PC"],
+    "genres": ["Action", "Adventure"]
+},
+{
+    "name": "el misterio del reloj encantado",
+    "description": "Descubre el misterio detrás de un antiguo reloj encantado que tiene el poder de manipular el tiempo. ¿Podrás resolver los enigmas y desafiar al destino?",
+    "released": "1997-12-19",
+    "rating": 7.9,
+    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "genres": ["Adventure", "Puzzle"]
+},
+{
+    "name": "simulador de vuelo histórico",
+    "description": "Ponte al mando de aviones históricos y revive las batallas aéreas más famosas de la historia en este realista simulador de vuelo.",
+    "released": "1996-10-25",
+    "rating": 8.1,
+    "platforms": ["PC", "PlayStation 4", "Xbox One"],
+    "genres": ["Simulation", "Action"]
+},
+{
+    "name": "aventuras en el bosque encantado",
+    "description": "Explora un mágico bosque encantado lleno de criaturas fantásticas, secretos ocultos y desafíos místicos. ¿Podrás desvelar la verdad que se esconde en su interior?",
+    "released": "1995-09-29",
+    "rating": 9.3,
+    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "genres": ["Action", "Adventure"]
+},
+{
+    "name": "rompecabezas de ingenio",
+    "description": "Pon a prueba tu ingenio con una amplia variedad de desafiantes rompecabezas en este juego de lógica y habilidad mental.",
+    "released": "1994-08-12",
+    "rating": 7.8,
+    "platforms": ["Xbox One", "PlayStation 4", "PC"],
+    "genres": ["Puzzle"]
+},
+{
+    "name": "simulador de vida prehistórica",
+    "description": "Viaja atrás en el tiempo y experimenta la vida en la era prehistórica, desde la caza de mamuts hasta la construcción de tribus primitivas.",
+    "released": "1993-07-16",
+    "rating": 8.5,
+    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "genres": ["Simulation", "Strategy"]
+},
+{
+    "name": "aventuras piratas: la búsqueda del tesoro",
+    "description": "Conviértete en un intrépido pirata y navega por los mares en busca de tesoros legendarios y emocionantes aventuras.",
+    "released": "1992-06-19",
+    "rating": 7.2,
+    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "genres": ["Action", "Adventure"]
+},
+{
+    "name": "batalla medieval: caballeros y castillos",
+    "description": "Participa en batallas épicas de la era medieval, donde caballeros valientes y castillos imponentes se enfrentan en luchas por el honor y el poder.",
+    "released": "1991-05-24",
+    "rating": 9.0,
+    "platforms": ["Xbox One", "PlayStation 4", "PC"],
+    "genres": ["Action", "Strategy"]
+}]
