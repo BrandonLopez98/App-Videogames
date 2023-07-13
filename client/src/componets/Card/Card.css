@@ -25,9 +25,11 @@
 .card:hover .info {
   display: flex;
   justify-content: space-around;
+  color: white;
 }
 
 .decoration{
   text-decoration: none;
-  color: black;
+  color: white;
+  font-weight: 100;
 }

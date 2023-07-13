@@ -13,6 +13,7 @@
   .giro {    
     animation: 1.5s giro infinite;
     backface-visibility: visible; 
+    color: white;
   }
   
   @keyframes giro {    
@@ -29,4 +30,10 @@
       transform: rotateY(360deg);      
     }    
   }
+
+  .content-loading{
+    margin-left: 30vw;
+    margin-top: 5vw;
+  }
+
   

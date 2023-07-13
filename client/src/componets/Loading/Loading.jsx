@@ -1,10 +1,11 @@
 import './Loading.css'
+import gif from '../../Multimedia/animation.gif'
 
 const Loading = () => {
   return (
-    <div>
+    <div className='content-loading'>
       <img 
-        src='https://i.ibb.co/b110PR0/242fe9cf6125a52fc2823c3350b1200a-w200.gif'
+        src={gif}
         alt='loading'
       />
         <div className='giro'>

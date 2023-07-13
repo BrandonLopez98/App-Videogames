@@ -25,6 +25,11 @@ const SearchBar = () => {
 
   return (
     <div className='buscador'>
+            <button
+        type='submit'
+        onClick={(event) => handleSubmit(event)}
+      >
+      </button>
       <input
         type='text'
         placeholder='Busca tu juego'
@@ -32,11 +37,6 @@ const SearchBar = () => {
         onKeyDown={(event) => handleKeyDown(event)}
         value={name}
       />
-      <button
-        type='submit'
-        onClick={(event) => handleSubmit(event)}
-      >
-      </button>
     </div>
   )
 }

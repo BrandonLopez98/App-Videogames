@@ -51,7 +51,7 @@ const Form = () => {
   }
 
   return (
-    <div>
+    <div className='contain_form'>
       <h2>Crea tu propio Juego</h2>
 
       <form onSubmit={handleSubmit(onSubmit)}>
