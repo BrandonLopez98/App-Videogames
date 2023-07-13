@@ -2,13 +2,13 @@ const axios = require('axios');
 const { API_KEY } = process.env;
 
 module.exports = async () => {
-  let id = 1;
+  let count = 1;
   let videogame = [];
 
-  while (id <= 50) {
+  while (count <= 50) {
     try {
 
-        let response = await axios.get(`https://api.rawg.io/api/games/${id}?key=${API_KEY}`);
+        let response = await axios.get(`https://api.rawg.io/api/games/${count}?key=${API_KEY}`);
 
         if (response.status) {
 
@@ -26,10 +26,10 @@ module.exports = async () => {
         }
 
     } catch (error) {
-        console.log(`Error en la solicitud para el ID ${id}: ${error.message}`);
+        console.log(`Error en la solicitud para el ID ${count}: ${error.message}`);
     }
 
-    id++;
+    count++;
 }
 return videogame;
 }

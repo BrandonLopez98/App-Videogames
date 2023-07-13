@@ -29,25 +29,25 @@ import { GET_GAMES,SEARCH_GAMES,GET_DETAIL,GET_GENRES,GET_PLATFORMS,POST_GAMES,D
               games: state.games.filter((game) => game.id !== payload),
               allGames: state.allGames.filter((game) => game.id !== payload)}
         case ORDER_GAMES:
-          let allgame = [...state.allGames]
-          let sortedGames
-          switch (payload) {
-              case 'id':
-              sortedGames = [
-                  ...allgame.filter((item) => typeof item.id === 'number').sort((a, b) => a.id - b.id),
-                  ...allgame.filter((item) => typeof item.id !== 'number').sort((a, b) => a.id.localeCompare(b.id))
-              ]
-              break
-              case 'ascendingName':
-                sortedGames = allgame.sort((a, b) => a.name.localeCompare(b.name))
+          {let allgame = [...state.allGames]
+            let sortedGames
+            switch (payload) {
+                case 'id':
+                sortedGames = [
+                    ...allgame.filter((item) => typeof item.id === 'number').sort((a, b) => a.id - b.id),
+                    ...allgame.filter((item) => typeof item.id !== 'number').sort((a, b) => a.id.localeCompare(b.id))
+                ]
                 break
-              case 'descendingName':
-                sortedGames = allgame.sort((a, b) => b.name.localeCompare(a.name))
-                break
-              default:
-                sortedGames = allgame
-            }
-          return { ...state, games: sortedGames }
+                case 'ascendingName':
+                  sortedGames = allgame.sort((a, b) => a.name.localeCompare(b.name))
+                  break
+                case 'descendingName':
+                  sortedGames = allgame.sort((a, b) => b.name.localeCompare(a.name))
+                  break
+                default:
+                  sortedGames = allgame
+              }
+            return { ...state, games: sortedGames }}
         case FILTER_GAMES_GENRES:
           const allGames = [...state.allGames];
           let filteredGames = payload === 'all' ? allGames : allGames.filter(item => item.genres && item.genres.includes(payload));

@@ -42,3 +42,8 @@
     color: #000047;
     font-weight: 900;
   }
+
+  .pagination button:focus{
+    background-color: #000047;
+    color: rgb(124, 158, 244);
+  }

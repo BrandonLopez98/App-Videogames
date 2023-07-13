@@ -4,7 +4,7 @@
     "description": "Un juego de construcción y aventuras en un mundo abierto de bloques.",
     "released": "2011-11-18",
     "rating": 9.0,
-    "platforms": ["PC", "Xbox One", "PlayStation 4", "Nintendo Switch", "iOS"],
+    "platforms": ["Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "Nintendo Switch", "Nintendo DSi", "Nintendo 64","Game Boy Advance","Game Boy Color","SNES","Game Boy","Nintendo DS", "Nintendo 3DS", "iOS"],
     "genres": ["Indie", "Adventure", "Simulation"]
 },
 {
@@ -12,7 +12,7 @@
     "description": "Un juego de acción y mundo abierto lleno de misiones y actividades.",
     "released": "2013-09-17",
     "rating": 9.5,
-    "platforms": ["PC", "Xbox One", "PlayStation 4", "Xbox 360", "PlayStation 3"],
+    "platforms": ["Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "Xbox 360", "PlayStation 3"],
     "genres": ["Action", "Adventure"]
 },
 {
@@ -20,7 +20,7 @@
     "description": "Un épico juego de mundo abierto ambientado en el salvaje oeste.",
     "released": "2018-10-26",
     "rating": 9.2,
-    "platforms": ["PC", "Xbox One", "PlayStation 4", "Xbox Series S/X", "PlayStation 5"],
+    "platforms": ["Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "Xbox Series S/X", "PlayStation 5"],
     "genres": ["Action", "Adventure"]
 },
 {
@@ -28,7 +28,7 @@
     "description": "Un juego de rol y acción con un vasto mundo para explorar y monstruos para cazar.",
     "released": "2015-05-19",
     "rating": 9.5,
-    "platforms": ["PC", "Xbox One", "PlayStation 4", "Nintendo Switch"],
+    "platforms": ["Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "Nintendo Switch", "Nintendo DSi", "Nintendo 64","Game Boy Advance","Game Boy Color","SNES","Game Boy","Nintendo DS", "Nintendo 3DS"],
     "genres": ["RPG", "Action", "Adventure"]
 },
 {
@@ -36,7 +36,7 @@
     "description": "Un juego de rol y acción postapocalíptico ambientado en un mundo devastado.",
     "released": "2015-11-10",
     "rating": 8.7,
-    "platforms": ["PC", "Xbox One", "PlayStation 4"],
+    "platforms": ["Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4"],
     "genres": ["RPG", "Action", "Adventure"]
 },
 {
@@ -44,7 +44,7 @@
     "description": "Embárcate en una aventura vikinga llena de combates y exploración.",
     "released": "2020-11-10",
     "rating": 8.6,
-    "platforms": ["PC", "Xbox One", "PlayStation 4", "Xbox Series S/X", "PlayStation 5"],
+    "platforms": ["Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "Xbox Series S/X", "PlayStation 5"],
     "genres": ["Action", "Adventure"]
 },
 {
@@ -52,7 +52,7 @@
     "description": "El último juego de la popular serie de simulación de fútbol.",
     "released": "2020-10-06",
     "rating": 8.2,
-    "platforms": ["PC", "Xbox One", "PlayStation 4", "Nintendo Switch"],
+    "platforms": ["Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "Nintendo Switch", "Nintendo DSi", "Nintendo 64","Game Boy Advance","Game Boy Color","SNES","Game Boy","Nintendo DS", "Nintendo 3DS"],
     "genres": ["Sports"]
 },
 {
@@ -60,7 +60,7 @@
     "description": "Un intenso juego de disparos en primera persona con una campaña emocionante y un modo multijugador competitivo.",
     "released": "2019-10-25",
     "rating": 8.7,
-    "platforms": ["PC", "Xbox One", "PlayStation 4"],
+    "platforms": ["Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4"],
     "genres": ["Shooter", "Action"]
 },
 {
@@ -68,7 +68,7 @@
     "description": "Un remake del clásico juego de survival horror con gráficos y jugabilidad mejorados.",
     "released": "2019-01-25",
     "rating": 9.0,
-    "platforms": ["PC", "Xbox One", "PlayStation 4"],
+    "platforms": ["Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4"],
     "genres": ["Action", "Adventure", "Horror"]
 },
 {
@@ -76,7 +76,7 @@
     "description": "Un desafiante juego de acción y aventuras ambientado en el Japón feudal.",
     "released": "2019-03-22",
     "rating": 9.3,
-    "platforms": ["PC", "Xbox One", "PlayStation 4"],
+    "platforms": ["Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4"],
     "genres": ["Action", "Adventure"]
 },
 {
@@ -84,7 +84,7 @@
     "description": "Una épica y emotiva historia de venganza protagonizada por el poderoso Kratos.",
     "released": "2018-04-20",
     "rating": 9.3,
-    "platforms": ["PlayStation 4"],
+    "platforms": ["PlayStation 2","PSP","Wii","GameCube","PlayStation 4"],
     "genres": ["Action", "Adventure"]
 },
 {
@@ -92,7 +92,7 @@
     "description": "Un juego de rol de mundo abierto ambientado en un futuro distópico y cyberpunk.",
     "released": "2020-12-10",
     "rating": 7.9,
-    "platforms": ["PC", "Xbox One", "PlayStation 4"],
+    "platforms": ["Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4"],
     "genres": ["RPG", "Action", "Adventure"]
 },
 {
@@ -100,7 +100,7 @@
     "description": "Un encantador juego de simulación de vida en una isla desierta.",
     "released": "2020-03-20",
     "rating": 9.2,
-    "platforms": ["Nintendo Switch"],
+    "platforms": ["Nintendo Switch", "Nintendo DSi", "Nintendo 64","Game Boy Advance","Game Boy Color","SNES","Game Boy","Nintendo DS", "Nintendo 3DS"],
     "genres": ["Simulation", "Casual"]
 },
 {
@@ -108,7 +108,7 @@
     "description": "Un juego de disparos en equipo con una variedad de héroes y modos de juego.",
     "released": "2016-05-24",
     "rating": 8.3,
-    "platforms": ["PC", "Xbox One", "PlayStation 4", "Nintendo Switch"],
+    "platforms": ["Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "Nintendo Switch", "Nintendo DSi", "Nintendo 64","Game Boy Advance","Game Boy Color","SNES","Game Boy","Nintendo DS", "Nintendo 3DS"],
     "genres": ["Shooter", "Action"]
 },
 {
@@ -116,7 +116,7 @@
     "description": "Un juego de disparos en línea con elementos de rol en un mundo futurista.",
     "released": "2017-09-06",
     "rating": 8.6,
-    "platforms": ["PC", "Xbox One", "PlayStation 4"],
+    "platforms": ["Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4"],
     "genres": ["Shooter", "Action"]
 },
 {
@@ -124,7 +124,7 @@
     "description": "Un popular juego de batalla real con construcción y elementos de supervivencia.",
     "released": "2017-07-25",
     "rating": 8.2,
-    "platforms": ["PC", "Xbox One", "PlayStation 4", "Nintendo Switch", "iOS"],
+    "platforms": ["Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "Nintendo Switch", "Nintendo DSi", "Nintendo 64","Game Boy Advance","Game Boy Color","SNES","Game Boy","Nintendo DS", "Nintendo 3DS", "iOS"],
     "genres": ["Action", "Shooter"]
 },
 {
@@ -132,7 +132,7 @@
     "description": "Un juego de estrategia y batalla en línea con una amplia variedad de personajes.",
     "released": "2009-10-27",
     "rating": 8.7,
-    "platforms": ["PC"],
+    "platforms": ["Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
     "genres": ["Strategy", "Massively Multiplayer"]
 },
 {
@@ -140,7 +140,7 @@
     "description": "Un masivo juego en línea de rol ambientado en un mundo de fantasía épico.",
     "released": "2004-11-23",
     "rating": 9.1,
-    "platforms": ["PC", "Classic Macintosh"],
+    "platforms": ["Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC", "Classic Macintosh"],
     "genres": ["RPG", "Massively Multiplayer"]
 },
 {
@@ -148,7 +148,7 @@
     "description": "Un juego de lucha repleto de acción y con personajes icónicos.",
     "released": "2019-04-23",
     "rating": 8.6,
-    "platforms": ["PC", "Xbox One", "PlayStation 4", "Nintendo Switch"],
+    "platforms": ["Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "Nintendo Switch", "Nintendo DSi", "Nintendo 64","Game Boy Advance","Game Boy Color","SNES","Game Boy","Nintendo DS", "Nintendo 3DS"],
     "genres": ["Fighting", "Action"]
 },
 {
@@ -156,7 +156,7 @@
     "description": "Un juego de lucha en el que los personajes de Nintendo se enfrentan en emocionantes batallas.",
     "released": "2018-12-07",
     "rating": 9.4,
-    "platforms": ["Nintendo Switch"],
+    "platforms": ["Nintendo Switch", "Nintendo DSi", "Nintendo 64","Game Boy Advance","Game Boy Color","SNES","Game Boy","Nintendo DS", "Nintendo 3DS"],
     "genres": ["Fighting", "Action", "Party"]
 },
 {
@@ -164,7 +164,7 @@
     "description": "Juegos de rol en los que los jugadores se embarcan en una aventura para convertirse en el mejor entrenador Pokémon.",
     "released": "2019-11-15",
     "rating": 8.8,
-    "platforms": ["Nintendo Switch"],
+    "platforms": ["Nintendo Switch", "Nintendo DSi", "Nintendo 64","Game Boy Advance","Game Boy Color","SNES","Game Boy","Nintendo DS", "Nintendo 3DS"],
     "genres": ["RPG", "Adventure"]
 },
 {
@@ -172,7 +172,7 @@
     "description": "Un frenético juego de disparos en primera persona con acción intensa y demonios despiadados.",
     "released": "2020-03-20",
     "rating": 9.0,
-    "platforms": ["PC", "Xbox One", "PlayStation 4"],
+    "platforms": ["Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4"],
     "genres": ["Shooter", "Action"]
 },
 {
@@ -180,7 +180,7 @@
     "description": "Un juego de disparos en línea con elementos de rol y un humor desenfadado.",
     "released": "2019-09-13",
     "rating": 8.3,
-    "platforms": ["PC", "Xbox One", "PlayStation 4"],
+    "platforms": ["Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4"],
     "genres": ["Shooter", "Action", "RPG"]
 },
 {
@@ -188,7 +188,7 @@
     "description": "Una emocionante entrega de la legendaria saga de juegos de disparos en primera persona.",
     "released": "2010-12-03",
     "rating": 8.7,
-    "platforms": ["Xbox 360", "Xbox One", "PC"],
+    "platforms": ["Xbox 360", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
     "genres": ["Shooter", "Action"]
 },
 {
@@ -196,7 +196,7 @@
     "description": "Un juego de disparos en tercera persona con una historia apasionante y modos de juego emocionantes.",
     "released": "2019-09-10",
     "rating": 8.6,
-    "platforms": ["Xbox One", "Xbox Series S/X", "PC"],
+    "platforms": ["NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "Xbox Series S/X", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
     "genres": ["Shooter", "Action"]
 },
 {
@@ -204,7 +204,7 @@
     "description": "El último juego de simulación de baloncesto con jugabilidad realista y modos de juego completos.",
     "released": "2020-09-04",
     "rating": 8.4,
-    "platforms": ["PC", "Xbox One", "PlayStation 4", "Xbox Series S/X", "PlayStation 5"],
+    "platforms": ["Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "Xbox Series S/X", "PlayStation 5"],
     "genres": ["Sports"]
 },
 {
@@ -212,7 +212,7 @@
     "description": "Embárcate en una peligrosa misión en busca de la legendaria Ciudad Perdida, llena de tesoros ocultos y antiguos secretos.",
     "released": "2015-09-03",
     "rating": 8.6,
-    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "platforms": ["PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
     "genres": ["Action", "Adventure"]
 },
 {
@@ -220,7 +220,7 @@
     "description": "Pon a prueba tus habilidades de conducción en carreras extremas llenas de adrenalina y desafíos emocionantes.",
     "released": "2014-11-21",
     "rating": 7.9,
-    "platforms": ["Xbox One", "PlayStation 4", "PC"],
+    "platforms": ["NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
     "genres": ["Racing", "Action"]
 },
 {
@@ -228,7 +228,7 @@
     "description": "Vive la experiencia de ser granjero, cuidando animales, cultivando cultivos y construyendo tu propia granja próspera.",
     "released": "2016-03-18",
     "rating": 8.2,
-    "platforms": ["PC", "PlayStation 4", "Xbox One"],
+    "platforms": ["Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One"],
     "genres": ["Simulation", "Strategy"]
 },
 {
@@ -236,7 +236,7 @@
     "description": "Sumérgete en las profundidades del océano y descubre un mundo submarino lleno de criaturas fascinantes y misterios ocultos.",
     "released": "2017-07-29",
     "rating": 7.7,
-    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "platforms": ["PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
     "genres": ["Adventure", "Simulation"]
 },
 {
@@ -244,7 +244,7 @@
     "description": "Enfréntate a emocionantes batallas de robots en arenas futuristas, utilizando poderosas armas y habilidades para convertirte en el campeón.",
     "released": "2018-12-10",
     "rating": 8.4,
-    "platforms": ["Xbox One", "PlayStation 4", "PC"],
+    "platforms": ["NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
     "genres": ["Action", "Fighting"]
 },
 {
@@ -252,7 +252,7 @@
     "description": "Construye y administra tu propia ciudad, desde rascacielos impresionantes hasta redes de transporte eficientes, en este completo simulador de construcción.",
     "released": "2019-10-05",
     "rating": 8.8,
-    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "platforms": ["PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
     "genres": ["Simulation", "Strategy"]
 },
 {
@@ -260,7 +260,7 @@
     "description": "Explora un antiguo castillo encantado y desvela sus secretos oscuros en este juego de aventuras y rompecabezas intrigante.",
     "released": "2020-08-15",
     "rating": 7.5,
-    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "platforms": ["PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
     "genres": ["Adventure", "Puzzle"]
 },
 {
@@ -268,7 +268,7 @@
     "description": "Atrévete a enfrentarte a pistas desafiantes y acrobacias impresionantes en carreras de motos extremas llenas de acción y velocidad.",
     "released": "2021-06-12",
     "rating": 8.1,
-    "platforms": ["Xbox One", "PlayStation 4", "PC"],
+    "platforms": ["NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
     "genres": ["Racing", "Action"]
 },
 {
@@ -276,7 +276,7 @@
     "description": "Administra tu propio restaurante y haz todo lo posible para satisfacer a los exigentes clientes, ofreciendo deliciosas comidas y un servicio impecable.",
     "released": "2022-04-25",
     "rating": 8.3,
-    "platforms": ["PC", "PlayStation 4", "Xbox One"],
+    "platforms": ["Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One"],
     "genres": ["Simulation", "Strategy"]
 },
 {
@@ -284,7 +284,7 @@
     "description": "Entra en la arena y lucha como un gladiador valiente en emocionantes combates cuerpo a cuerpo contra oponentes formidables.",
     "released": "2023-02-01",
     "rating": 7.9,
-    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "platforms": ["PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
     "genres": ["Action", "Fighting"]
 },
 {
@@ -292,7 +292,7 @@
     "description": "Explora las vastas regiones del espacio exterior, descubre nuevos planetas y civilizaciones alienígenas en esta emocionante aventura de exploración espacial.",
     "released": "2024-01-10",
     "rating": 8.6,
-    "platforms": ["Xbox One", "PlayStation 4", "PC"],
+    "platforms": ["NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
     "genres": ["Adventure", "Simulation"]
 },
 {
@@ -300,7 +300,7 @@
     "description": "Adéntrate en una tierra mágica llena de dragones majestuosos, misterios ancestrales y peligros inimaginables en esta emocionante aventura de fantasía.",
     "released": "2025-03-19",
     "rating": 7.8,
-    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "platforms": ["PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
     "genres": ["Action", "Adventure"]
 },
 {
@@ -308,7 +308,7 @@
     "description": "Pilota naves espaciales avanzadas y explora el vasto cosmos en este simulador de vuelo espacial que te llevará a lugares lejanos y desconocidos.",
     "released": "2026-02-14",
     "rating": 8.9,
-    "platforms": ["Xbox One", "PlayStation 4", "PC"],
+    "platforms": ["NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
     "genres": ["Simulation", "Adventure"]
 },
 {
@@ -316,7 +316,7 @@
     "description": "Naufraga en una misteriosa isla prohibida y desentraña los secretos que guarda, mientras luchas por sobrevivir en un entorno hostil.",
     "released": "2027-07-08",
     "rating": 7.6,
-    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "platforms": ["PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
     "genres": ["Adventure", "Survival"]
 },
 {
@@ -324,7 +324,7 @@
     "description": "Únete a una épica batalla de magos y hechiceros, desatando poderosos hechizos y convocando criaturas mágicas para enfrentarte a tus rivales.",
     "released": "2028-05-03",
     "rating": 8.2,
-    "platforms": ["Xbox One", "PlayStation 4", "PC"],
+    "platforms": ["NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
     "genres": ["Action", "Strategy"]
 },
 {
@@ -332,7 +332,7 @@
     "description": "Construye y administra tu propio parque temático de dinosaurios, ofreciendo a los visitantes la experiencia única de encontrarse cara a cara con criaturas prehistóricas.",
     "released": "2029-09-22",
     "rating": 7.9,
-    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "platforms": ["PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
     "genres": ["Simulation", "Adventure"]
 },
 {
@@ -340,7 +340,7 @@
     "description": "Embárcate en un viaje mágico al Reino de las Hadas, donde criaturas encantadoras y paisajes deslumbrantes te esperan en cada esquina.",
     "released": "2030-08-12",
     "rating": 8.3,
-    "platforms": ["PC", "PlayStation 4", "Xbox One"],
+    "platforms": ["Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One"],
     "genres": ["Adventure", "Fantasy"]
 },
 {
@@ -348,7 +348,7 @@
     "description": "Recorre pistas emocionantes al volante de los coches clásicos más emblemáticos de la historia, reviviendo la época dorada de las carreras de automóviles.",
     "released": "2031-07-17",
     "rating": 7.7,
-    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "platforms": ["PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
     "genres": ["Racing", "Action"]
 },
 {
@@ -356,7 +356,7 @@
     "description": "Experimenta la vida urbana en toda su diversidad, desde la carrera profesional hasta las relaciones personales, en este realista simulador de vida en la ciudad.",
     "released": "2032-06-28",
     "rating": 8.1,
-    "platforms": ["Xbox One", "PlayStation 4", "PC"],
+    "platforms": ["NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
     "genres": ["Simulation", "Adventure"]
 },
 {
@@ -364,7 +364,7 @@
     "description": "Sumérgete en un futuro distópico lleno de conflictos y luchas por la supervivencia, donde tus decisiones determinarán el destino de la humanidad.",
     "released": "2033-05-19",
     "rating": 8.5,
-    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "platforms": ["PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
     "genres": ["Action", "Adventure"]
 },
 {
@@ -372,7 +372,7 @@
     "description": "Disfruta de un juego relajante y desafiante que te llevará a un estado de paz mental mientras resuelves hermosos rompecabezas.",
     "released": "2003-02-07",
     "rating": 8.3,
-    "platforms": ["PC", "Xbox One", "PlayStation 4", "Nintendo Switch"],
+    "platforms": ["Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "Nintendo Switch", "Nintendo DSi", "Nintendo 64","Game Boy Advance","Game Boy Color","SNES","Game Boy","Nintendo DS", "Nintendo 3DS"],
     "genres": ["Action", "Adventure", "RPG"]
 },
 {
@@ -380,7 +380,7 @@
     "description": "Embárcate en una emocionante carrera a través de la selva llena de obstáculos, animales salvajes y tesoros ocultos. ¿Tienes lo necesario para llegar a la meta?",
     "released": "2006-09-12",
     "rating": 7.5,
-    "platforms": ["PlayStation 4", "Xbox 360", "PC"],
+    "platforms": ["PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "Xbox 360", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
     "genres": ["Action", "Adventure"]
 },
 {
@@ -388,7 +388,7 @@
     "description": "Vive la emoción y la intensidad del fútbol en este campeonato épico donde los mejores equipos se enfrentan en una batalla por la gloria.",
     "released": "2023-02-14",
     "rating": 9.1,
-    "platforms": ["Nintendo Switch", "PlayStation 4", "Xbox One"],
+    "platforms": ["Nintendo Switch", "Nintendo DSi", "Nintendo 64","Game Boy Advance","Game Boy Color","SNES","Game Boy","Nintendo DS", "Nintendo 3DS", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One"],
     "genres": ["RPG", "Action", "Adventure"]
 },
 {
@@ -396,6 +396,6 @@
     "description": "Sumérgete en un mundo de magia, misterio y poder mientras descubres los secretos de la legendaria profecía y luchas por cambiar tu destino.",
     "released": "2013-12-01",
     "rating": 6.8,
-    "platforms": ["PlayStation 4", "Xbox One", "PC"],
+    "platforms": ["PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
     "genres": ["Action", "Adventure"]
 }]
