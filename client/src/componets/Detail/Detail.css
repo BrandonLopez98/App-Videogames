@@ -1,0 +1,49 @@
+.content-detail{
+    border: 2px solid black;
+    width: 90vw;
+    margin: 0 auto;
+    background-color: rgb(124, 158, 244,0.6);
+    border-radius: 20px;
+    padding: 1vw;
+}
+
+.content-detail .title{
+    display: flex;
+    justify-content: space-around;
+}
+
+.content-detail .info{
+    display: flex;
+    justify-content: space-around;
+}
+
+.info .content-img{
+    position: relative;
+}
+
+.content-detail .info img{
+    height: 25vw;
+    position: sticky;
+    top:15vw
+}
+
+
+.content-detail .info .info-text{
+    width: 40vw;
+}
+
+.info-text .genero{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1vw;
+}
+
+.info-text .plataformas{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1vw;
+}
+
+.info-text > p{
+    margin-top: 1vw;
+}

@@ -6,7 +6,30 @@
   overflow: hidden;
   padding: 0.5vw;
   transition: transform 1s ease;
+  position: relative;
 }
+
+.card .deleteButton{
+  position: absolute;
+  right: 1vw;
+  top: 1vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 600;
+  font-size: 1.2vw;
+  width: 2vw;
+  height: 2vw;
+  border-radius: 20px;
+  color: #000047;
+  background-color: rgb(124, 158, 244);
+}
+
+.card .deleteButton:hover{
+  background-color: #000047;
+  color: rgb(124, 158, 244);
+}
+
 
 .card img {
   width: 100%;

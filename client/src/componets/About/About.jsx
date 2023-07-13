@@ -3,7 +3,7 @@ import './About.css';
 import Foto from './foto.JPG';
 import linkedin from '../../Multimedia/gamerecurso-12-min.webp'
 import github from '../../Multimedia/gamerecurso-13-min.webp'
-import instagram from '../../Multimedia/gamerecurso-13-min.webp'
+import instagram from '../../Multimedia/gamerecurso-11-min.webp'
 
 const About = () => {
   return (
@@ -15,7 +15,7 @@ const About = () => {
 
             <a href="https://github.com/BrandonLopez98"><img src={github} alt="" /></a>
 
-            <a href="https://www.instagram.com/brandonlopezmonroy/"><img src={github} alt="" /></a>
+            <a href="https://www.instagram.com/brandonlopezmonroy/"><img src={instagram} alt="" /></a>
         </div>
       </div>
       

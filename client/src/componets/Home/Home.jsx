@@ -15,7 +15,7 @@ const HomePage = () => {
     dispatch(getGenres());
     dispatch(getPlatforms());
     dispatch(getGames());
-  }, []);
+  }, [dispatch]);
 
   const genres = useSelector((state) => state.genres);
   const platforms = useSelector((state) => state.platforms);

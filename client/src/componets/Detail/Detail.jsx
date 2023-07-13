@@ -19,24 +19,27 @@ const Detail = () => {
 
 
   return (
-    <div>
-      <div>
+    <div className='content-detail'>
+      <div className='title'>
         <h2>Id: {details?.id}</h2>
         <h1>Nombre: {details.name}</h1>
       </div>
-      <div>
-        <img src={details.image} alt='' />
-        <div>
+      <div className='info'>
+        <div className='content-img'>
+          <img src={details.image} alt='' />
+        </div>
+        
+        <div className='info-text'>
           <p>Descripcion:</p>
           <p dangerouslySetInnerHTML={{ __html: details.description }}></p>
-          <div>
+          <div className='genero'>
             <p>Genero:</p>
             {details.genres &&
               details.genres.map((el) => {
                 return <p key={el}>{el}</p>;
               })}
           </div>
-          <div>
+          <div className='plataformas'>
             <p>Plataformas:</p>
             {details.platforms &&
               details.platforms.map((el) => {
