@@ -35,13 +35,23 @@
 .info-text .genero{
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
     margin-top: 1vw;
 }
 
 .info-text .plataformas{
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
     margin-top: 1vw;
+}
+
+.info-text .genero p{
+    margin-right: 1vw;
+}
+
+.info-text .plataformas p{
+    margin-right: 1vw;
 }
 
 .info-text > p{
