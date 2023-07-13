@@ -5,7 +5,7 @@
         "released": "2017-03-03",
         "rating": 9.2,
         "platforms": ["Nintendo Switch", "Nintendo DSi", "Nintendo 64","Game Boy Advance","Game Boy Color","SNES","Game Boy","Nintendo DS", "Nintendo 3DS", "Wii U"],
-        "genres": ["Action", "Adventure", "RPG"]
+        "genres": ["Action", "Card","Educational","Board Games","Family","Adventure", "RPG"]
     },
     {
     "name": "guerra táctica: operación sigilosa",
@@ -13,7 +13,7 @@
     "released": "2005-08-19",
     "rating": 8.0,
     "platforms": ["Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC", "PlayStation 2","PlayStation","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Xbox","Xbox One", "Nintendo Switch", "Nintendo DSi", "Nintendo 64","Game Boy Advance","Game Boy Color","SNES","Game Boy","Nintendo DS", "Nintendo 3DS"],
-    "genres": ["RPG", "Action", "Adventure"]
+    "genres": ["RPG", "Action", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "simulador de carreras extremas",
@@ -21,7 +21,7 @@
     "released": "2022-06-17",
     "rating": 7.2,
     "platforms": ["Nintendo Switch", "Nintendo DSi", "Nintendo 64","Game Boy Advance","Game Boy Color","SNES","Game Boy","Nintendo DS", "Nintendo 3DS", "PlayStation 2","PlayStation","PSP","Wii","GameCube","PlayStation 4", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
-    "genres": ["Action", "Adventure"]
+    "genres": ["Action", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "el reino de las sombras",
@@ -29,7 +29,7 @@
     "released": "2011-06-24",
     "rating": 9.4,
     "platforms": ["NES","Classic Macintosh","Apple II","Xbox","Xbox One", "PlayStation 2","PlayStation","PSP","Wii","GameCube","PlayStation 4", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
-    "genres": ["Action", "Adventure"]
+    "genres": ["Action", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "misión espacial: exploradores del universo",
@@ -37,7 +37,7 @@
     "released": "2009-07-07",
     "rating": 7.9,
     "platforms": ["PlayStation 2","PlayStation","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Xbox","Xbox One", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
-    "genres": ["Action", "Adventure"]
+    "genres": ["Action", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "rompecabezas en el espacio",
@@ -45,7 +45,7 @@
     "released": "2001-11-16",
     "rating": 8.5,
     "platforms": ["NES","Classic Macintosh","Apple II","Xbox","Xbox One", "PlayStation 2","PlayStation","PSP","Wii","GameCube","PlayStation 4", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
-    "genres": ["Action", "Adventure"]
+    "genres": ["Action", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "escape room: el desafío final",
@@ -53,7 +53,7 @@
     "released": "2009-05-23",
     "rating": 7.6,
     "platforms": ["PlayStation 2","PlayStation","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Xbox","Xbox One", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
-    "genres": ["Action", "Adventure"]
+    "genres": ["Action", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "carrera de motocross extrema",
@@ -61,7 +61,7 @@
     "released": "2012-10-09",
     "rating": 9.0,
     "platforms": ["PlayStation 2","PlayStation","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Xbox","Xbox One", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
-    "genres": ["Action", "Adventure"]
+    "genres": ["Action", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "el enigma de la pirámide",
@@ -69,7 +69,7 @@
     "released": "2021-06-29",
     "rating": 6.7,
     "platforms": ["Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC", "PlayStation 2","PlayStation","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Xbox","Xbox One"],
-    "genres": ["Action", "Adventure"]
+    "genres": ["Action", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "batalla de cartas épicas",
@@ -77,7 +77,7 @@
     "released": "2019-08-31",
     "rating": 8.2,
     "platforms": ["Nintendo Switch", "Nintendo DSi", "Nintendo 64","Game Boy Advance","Game Boy Color","SNES","Game Boy","Nintendo DS", "Nintendo 3DS", "PlayStation 2","PlayStation","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Xbox","Xbox One"],
-    "genres": ["RPG", "Action", "Adventure"]
+    "genres": ["RPG", "Action", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "operación encubierta: misión sigilosa",
@@ -85,7 +85,7 @@
     "released": "2010-05-28",
     "rating": 7.3,
     "platforms": ["NES","Classic Macintosh","Apple II","Xbox","Xbox One", "PlayStation 2","PlayStation","PSP","Wii","GameCube","PlayStation 4", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
-    "genres": ["Action", "Adventure"]
+    "genres": ["Action", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "simulador de vida virtual",
@@ -93,7 +93,7 @@
     "released": "2005-09-22",
     "rating": 9.6,
     "platforms": ["PlayStation 2","PlayStation","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Xbox","Xbox One", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
-    "genres": ["Action", "Adventure"]
+    "genres": ["Action", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "invasión alienígena: batalla final",
@@ -101,7 +101,7 @@
     "released": "2023-07-05",
     "rating": 7.8,
     "platforms": ["Nintendo Switch", "Nintendo DSi", "Nintendo 64","Game Boy Advance","Game Boy Color","SNES","Game Boy","Nintendo DS", "Nintendo 3DS", "PlayStation 2","PlayStation","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Xbox","Xbox One"],
-    "genres": ["RPG", "Action", "Adventure"]
+    "genres": ["RPG", "Action", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "la leyenda de los mundos perdidos",
@@ -109,7 +109,7 @@
     "released": "2004-12-09",
     "rating": 8.1,
     "platforms": ["PlayStation 2","PlayStation","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Xbox","Xbox One", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
-    "genres": ["Action", "Adventure"]
+    "genres": ["Action", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "el reino en ruinas",
@@ -117,7 +117,7 @@
     "released": "2018-02-15",
     "rating": 6.5,
     "platforms": ["Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC", "PlayStation 2","PlayStation","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Xbox","Xbox One"],
-    "genres": ["Action", "Adventure"]
+    "genres": ["Action", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "carrera de bicicletas extremas",
@@ -125,7 +125,7 @@
     "released": "2008-11-02",
     "rating": 9.2,
     "platforms": ["PlayStation 2","PlayStation","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Xbox","Xbox One", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
-    "genres": ["Action", "Adventure"]
+    "genres": ["Action", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "aventuras en el viejo oeste",
@@ -133,7 +133,7 @@
     "released": "2017-04-14",
     "rating": 7.7,
     "platforms": ["NES","Classic Macintosh","Apple II","Xbox","Xbox One", "PlayStation 2","PlayStation","PSP","Wii","GameCube","PlayStation 4", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
-    "genres": ["Action", "Adventure"]
+    "genres": ["Action", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "escuadrón de rescate: misión de alto riesgo",
@@ -141,7 +141,7 @@
     "released": "2014-11-29",
     "rating": 8.9,
     "platforms": ["PlayStation 2","PlayStation","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Xbox","Xbox One", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
-    "genres": ["Action", "Adventure"]
+    "genres": ["Action", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "simulador de parques de diversiones",
@@ -181,7 +181,7 @@
     "released": "2010-03-26",
     "rating": 9.5,
     "platforms": ["Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC", "PlayStation 2","PlayStation","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Xbox","Xbox One"],
-    "genres": ["Action", "Adventure"]
+    "genres": ["Action", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "misión espacial: exploradores galácticos",
@@ -189,7 +189,7 @@
     "released": "2007-05-18",
     "rating": 7.8,
     "platforms": ["PlayStation 2","PlayStation","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Xbox","Xbox One", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
-    "genres": ["RPG", "Action", "Adventure"]
+    "genres": ["RPG", "Action", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "el reino de los elementos",
@@ -197,7 +197,7 @@
     "released": "2019-11-08",
     "rating": 8.6,
     "platforms": ["PlayStation 2","PlayStation","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Xbox","Xbox One", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
-    "genres": ["RPG", "Action", "Adventure"]
+    "genres": ["RPG", "Action", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "simulador de vuelo avanzado",
@@ -214,7 +214,7 @@
     "released": "2003-08-29",
     "rating": 7.3,
     "platforms": ["NES","Classic Macintosh","Apple II","Xbox","Xbox One", "PlayStation 2","PlayStation","PSP","Wii","GameCube","PlayStation 4", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
-    "genres": ["Puzzle", "Adventure"]
+    "genres": ["Puzzle", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "torneo de batallas: guerreros legendarios",
@@ -246,7 +246,7 @@
     "released": "2010-09-17",
     "rating": 7.7,
     "platforms": ["PlayStation 2","PlayStation","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Xbox","Xbox One", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
-    "genres": ["Action", "Adventure"]
+    "genres": ["Action", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "lucha libre: el campeonato definitivo",
@@ -270,7 +270,7 @@
     "released": "2006-10-13",
     "rating": 7.5,
     "platforms": ["PlayStation 2","PlayStation","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Xbox","Xbox One", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
-    "genres": ["Adventure", "Puzzle"]
+    "genres": ["Card","Educational","Board Games","Family","Adventure", "Puzzle"]
 },
 {
     "name": "survival zombie: apocalipsis",
@@ -286,7 +286,7 @@
     "released": "2004-09-24",
     "rating": 7.3,
     "platforms": ["PlayStation 2","PlayStation","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Xbox","Xbox One", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
-    "genres": ["Puzzle", "Adventure"]
+    "genres": ["Puzzle", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "aventuras espaciales: el tesoro del universo",
@@ -294,7 +294,7 @@
     "released": "2003-12-12",
     "rating": 8.3,
     "platforms": ["Nintendo Switch", "Nintendo DSi", "Nintendo 64","Game Boy Advance","Game Boy Color","SNES","Game Boy","Nintendo DS", "Nintendo 3DS", "PlayStation 2","PlayStation","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Xbox","Xbox One"],
-    "genres": ["RPG", "Action", "Adventure"]
+    "genres": ["RPG", "Action", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "la profecía de los elementos",
@@ -302,7 +302,7 @@
     "released": "2002-11-29",
     "rating": 9.7,
     "platforms": ["PlayStation 2","PlayStation","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Xbox","Xbox One", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
-    "genres": ["RPG", "Action", "Adventure"]
+    "genres": ["RPG", "Action", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "torneo de estrategia: batalla épica",
@@ -334,7 +334,7 @@
     "released": "1998-11-13",
     "rating": 8.4,
     "platforms": ["NES","Classic Macintosh","Apple II","Xbox","Xbox One", "PlayStation 2","PlayStation","PSP","Wii","GameCube","PlayStation 4", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
-    "genres": ["Action", "Adventure"]
+    "genres": ["Action", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "el misterio del reloj encantado",
@@ -342,7 +342,7 @@
     "released": "1997-12-19",
     "rating": 7.9,
     "platforms": ["PlayStation 2","PlayStation","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Xbox","Xbox One", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
-    "genres": ["Adventure", "Puzzle"]
+    "genres": ["Card","Educational","Board Games","Family","Adventure", "Puzzle"]
 },
 {
     "name": "simulador de vuelo histórico",
@@ -358,7 +358,7 @@
     "released": "1995-09-29",
     "rating": 9.3,
     "platforms": ["PlayStation 2","PlayStation","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Xbox","Xbox One", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
-    "genres": ["Action", "Adventure"]
+    "genres": ["Action", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "rompecabezas de ingenio",
@@ -382,7 +382,7 @@
     "released": "1992-06-19",
     "rating": 7.2,
     "platforms": ["PlayStation 2","PlayStation","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Xbox","Xbox One", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
-    "genres": ["Action", "Adventure"]
+    "genres": ["Action", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "batalla medieval: caballeros y castillos",

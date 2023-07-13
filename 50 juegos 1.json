@@ -5,7 +5,7 @@
     "released": "2011-11-18",
     "rating": 9.0,
     "platforms": ["Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "Nintendo Switch", "Nintendo DSi", "Nintendo 64","Game Boy Advance","Game Boy Color","SNES","Game Boy","Nintendo DS", "Nintendo 3DS", "iOS"],
-    "genres": ["Indie", "Adventure", "Simulation"]
+    "genres": ["Indie", "Card","Educational","Board Games","Family","Adventure", "Simulation"]
 },
 {
     "name": "Grand Theft Auto V",
@@ -13,7 +13,7 @@
     "released": "2013-09-17",
     "rating": 9.5,
     "platforms": ["Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "Xbox 360", "PlayStation 3"],
-    "genres": ["Action", "Adventure"]
+    "genres": ["Action", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "Red Dead Redemption 2",
@@ -21,7 +21,7 @@
     "released": "2018-10-26",
     "rating": 9.2,
     "platforms": ["Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "Xbox Series S/X", "PlayStation 5"],
-    "genres": ["Action", "Adventure"]
+    "genres": ["Action", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "The Witcher 3: Wild Hunt",
@@ -29,7 +29,7 @@
     "released": "2015-05-19",
     "rating": 9.5,
     "platforms": ["Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "Nintendo Switch", "Nintendo DSi", "Nintendo 64","Game Boy Advance","Game Boy Color","SNES","Game Boy","Nintendo DS", "Nintendo 3DS"],
-    "genres": ["RPG", "Action", "Adventure"]
+    "genres": ["RPG", "Action", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "Fallout 4",
@@ -37,7 +37,7 @@
     "released": "2015-11-10",
     "rating": 8.7,
     "platforms": ["Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4"],
-    "genres": ["RPG", "Action", "Adventure"]
+    "genres": ["RPG", "Action", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "Assassin's Creed Valhalla",
@@ -45,7 +45,7 @@
     "released": "2020-11-10",
     "rating": 8.6,
     "platforms": ["Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "Xbox Series S/X", "PlayStation 5"],
-    "genres": ["Action", "Adventure"]
+    "genres": ["Action", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "FIFA 21",
@@ -69,7 +69,7 @@
     "released": "2019-01-25",
     "rating": 9.0,
     "platforms": ["Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4"],
-    "genres": ["Action", "Adventure", "Horror"]
+    "genres": ["Action", "Card","Educational","Board Games","Family","Adventure", "Horror"]
 },
 {
     "name": "Sekiro: Shadows Die Twice",
@@ -77,7 +77,7 @@
     "released": "2019-03-22",
     "rating": 9.3,
     "platforms": ["Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4"],
-    "genres": ["Action", "Adventure"]
+    "genres": ["Action", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "God of War",
@@ -85,7 +85,7 @@
     "released": "2018-04-20",
     "rating": 9.3,
     "platforms": ["PlayStation 2","PSP","Wii","GameCube","PlayStation 4"],
-    "genres": ["Action", "Adventure"]
+    "genres": ["Action", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "Cyberpunk 2077",
@@ -93,7 +93,7 @@
     "released": "2020-12-10",
     "rating": 7.9,
     "platforms": ["Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4"],
-    "genres": ["RPG", "Action", "Adventure"]
+    "genres": ["RPG", "Action", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "Animal Crossing: New Horizons",
@@ -165,7 +165,7 @@
     "released": "2019-11-15",
     "rating": 8.8,
     "platforms": ["Nintendo Switch", "Nintendo DSi", "Nintendo 64","Game Boy Advance","Game Boy Color","SNES","Game Boy","Nintendo DS", "Nintendo 3DS"],
-    "genres": ["RPG", "Adventure"]
+    "genres": ["RPG", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "Doom Eternal",
@@ -213,7 +213,7 @@
     "released": "2015-09-03",
     "rating": 8.6,
     "platforms": ["PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
-    "genres": ["Action", "Adventure"]
+    "genres": ["Action", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "Carrera Extrema de Coches",
@@ -237,7 +237,7 @@
     "released": "2017-07-29",
     "rating": 7.7,
     "platforms": ["PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
-    "genres": ["Adventure", "Simulation"]
+    "genres": ["Card","Educational","Board Games","Family","Adventure", "Simulation"]
 },
 {
     "name": "Batalla Épica de Robots",
@@ -261,7 +261,7 @@
     "released": "2020-08-15",
     "rating": 7.5,
     "platforms": ["PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
-    "genres": ["Adventure", "Puzzle"]
+    "genres": ["Card","Educational","Board Games","Family","Adventure", "Puzzle"]
 },
 {
     "name": "Carrera de Motos Extremas",
@@ -293,7 +293,7 @@
     "released": "2024-01-10",
     "rating": 8.6,
     "platforms": ["NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
-    "genres": ["Adventure", "Simulation"]
+    "genres": ["Card","Educational","Board Games","Family","Adventure", "Simulation"]
 },
 {
     "name": "Aventuras en la Tierra de los Dragones",
@@ -301,7 +301,7 @@
     "released": "2025-03-19",
     "rating": 7.8,
     "platforms": ["PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
-    "genres": ["Action", "Adventure"]
+    "genres": ["Action", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "Simulador de Vuelo Espacial",
@@ -309,7 +309,7 @@
     "released": "2026-02-14",
     "rating": 8.9,
     "platforms": ["NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
-    "genres": ["Simulation", "Adventure"]
+    "genres": ["Simulation", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "Misterio en la Isla Prohibida",
@@ -317,7 +317,7 @@
     "released": "2027-07-08",
     "rating": 7.6,
     "platforms": ["PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
-    "genres": ["Adventure", "Survival"]
+    "genres": ["Card","Educational","Board Games","Family","Adventure", "Survival"]
 },
 {
     "name": "Batalla de Magos y Hechiceros",
@@ -333,7 +333,7 @@
     "released": "2029-09-22",
     "rating": 7.9,
     "platforms": ["PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
-    "genres": ["Simulation", "Adventure"]
+    "genres": ["Simulation", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "Aventuras en el Reino de las Hadas",
@@ -341,7 +341,7 @@
     "released": "2030-08-12",
     "rating": 8.3,
     "platforms": ["Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One"],
-    "genres": ["Adventure", "Fantasy"]
+    "genres": ["Card","Educational","Board Games","Family","Adventure", "Fantasy"]
 },
 {
     "name": "Carrera de Coches Clásicos",
@@ -357,7 +357,7 @@
     "released": "2032-06-28",
     "rating": 8.1,
     "platforms": ["NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
-    "genres": ["Simulation", "Adventure"]
+    "genres": ["Simulation", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "Batalla en el Futuro Distópico",
@@ -365,7 +365,7 @@
     "released": "2033-05-19",
     "rating": 8.5,
     "platforms": ["PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
-    "genres": ["Action", "Adventure"]
+    "genres": ["Action", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "rompecabezas zen",
@@ -373,7 +373,7 @@
     "released": "2003-02-07",
     "rating": 8.3,
     "platforms": ["Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "Nintendo Switch", "Nintendo DSi", "Nintendo 64","Game Boy Advance","Game Boy Color","SNES","Game Boy","Nintendo DS", "Nintendo 3DS"],
-    "genres": ["Action", "Adventure", "RPG"]
+    "genres": ["Action", "Card","Educational","Board Games","Family","Adventure", "RPG"]
 },
 {
     "name": "carrera de aventuras en la selva",
@@ -381,7 +381,7 @@
     "released": "2006-09-12",
     "rating": 7.5,
     "platforms": ["PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "Xbox 360", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
-    "genres": ["Action", "Adventure"]
+    "genres": ["Action", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "campeonato de fútbol épico",
@@ -389,7 +389,7 @@
     "released": "2023-02-14",
     "rating": 9.1,
     "platforms": ["Nintendo Switch", "Nintendo DSi", "Nintendo 64","Game Boy Advance","Game Boy Color","SNES","Game Boy","Nintendo DS", "Nintendo 3DS", "PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One"],
-    "genres": ["RPG", "Action", "Adventure"]
+    "genres": ["RPG", "Action", "Card","Educational","Board Games","Family","Adventure"]
 },
 {
     "name": "la leyenda del destino",
@@ -397,5 +397,5 @@
     "released": "2013-12-01",
     "rating": 6.8,
     "platforms": ["PlayStation 2","PSP","Wii","GameCube","PlayStation 4", "NES","Classic Macintosh","Apple II","Atari Flashback","Atari 2600","Atari 5200","Commodore / Amiga","Apple II","Xbox","Xbox One", "Dreamcast","SEGA Master System","SEGA 32X","SEGA CD","SEGA Saturn","Genesis","Atari XEGS","Atari Lynx","Atari ST","Atari 7800","Atari 8-bit","PC"],
-    "genres": ["Action", "Adventure"]
+    "genres": ["Action", "Card","Educational","Board Games","Family","Adventure"]
 }]
