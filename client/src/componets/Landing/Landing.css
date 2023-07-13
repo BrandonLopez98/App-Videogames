@@ -29,6 +29,9 @@
   width: 25vw;
   margin-top: 2vw;
 }
+.container-landing .text img:hover{
+  scale: 1.1;
+}
 
 .container-landing .content-image img{
   width: 27vw;
