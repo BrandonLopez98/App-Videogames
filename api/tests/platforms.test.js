@@ -1,6 +1,6 @@
 const { expect } = require('chai');
 const request = require('supertest');
-const app = require('../../src/app'); // Asegúrate de importar tu archivo principal de la aplicación aquí
+const app = require('../src/app'); // Asegúrate de importar tu archivo principal de la aplicación aquí
 
 describe('Platforms API', () => {
   describe('GET /platforms', () => {
