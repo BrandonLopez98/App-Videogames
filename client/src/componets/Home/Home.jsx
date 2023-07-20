@@ -25,11 +25,11 @@ const HomePage = () => {
   const gamesPerPage = 15;
 
   // Obtener el índice del primer y último juego de la página actual
-  const indexOfLastGame = currentPage * gamesPerPage;
-  const indexOfFirstGame = indexOfLastGame - gamesPerPage;
+  const indexOfLastGame = currentPage * gamesPerPage; //15
+  const indexOfFirstGame = indexOfLastGame - gamesPerPage; //0
 
   // Obtener los juegos de la página actual
-  const games = allGames.slice(indexOfFirstGame, indexOfLastGame);
+  const games = allGames.slice(indexOfFirstGame, indexOfLastGame);//[0],[14]--ya que corta en el [15]
 
   // Función para cambiar de página
   const paginate = (pageNumber) => setCurrentPage(pageNumber);
